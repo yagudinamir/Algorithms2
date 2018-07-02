@@ -1,0 +1,3 @@
+/Users/amir/CLionProjects/Dinic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/amir/CLionProjects/Dinic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amir/CLionProjects/Dinic/cmake-build-debug/CMakeFiles/Dinic.dir

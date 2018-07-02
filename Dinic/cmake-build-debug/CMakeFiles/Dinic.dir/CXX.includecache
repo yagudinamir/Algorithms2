@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/amir/CLionProjects/Dinic/dinic_2.cpp
+
+/Users/amir/CLionProjects/Dinic/main.cpp
+iostream
+-
+vector
+-
+string
+-
+queue
+-
+

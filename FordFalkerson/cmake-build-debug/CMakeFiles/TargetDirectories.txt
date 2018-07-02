@@ -1,0 +1,3 @@
+/Users/amir/CLionProjects/FordFalkerson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/amir/CLionProjects/FordFalkerson/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amir/CLionProjects/FordFalkerson/cmake-build-debug/CMakeFiles/FordFalkerson.dir
